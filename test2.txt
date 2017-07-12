@@ -1,3 +1,4 @@
+base new do
 rebase
 abc
 123
